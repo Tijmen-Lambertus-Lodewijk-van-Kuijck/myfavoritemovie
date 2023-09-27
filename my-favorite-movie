@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+    <link rel="stylesheet" href="css/style.css">
+</header>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My-favorite-movie</title>
+
+</head>
+
+<body>
+    <link rel="stylesheet" href="css/style.css">
+    <main>
+        <link rel="stylesheet" href="css/style.css">
+        <center>
+            <h1>Cars</h1>
+
+            <h2><strong>Waarom cars de beste film is</strong></h2>
+            <p><i>De film speelt zich af in een wereld die geheel bevolkt wordt door levende auto's en andere
+                    voertuigen. Centraal staat de rode racewagen Bliksem McQueen, die alleen lijkt te leven voor het
+                    winnen van wedstrijden en het verkrijgen van roem. Bij aanvang van de film neemt hij deel aan de
+                    laatste race van de Piston Cup stock car race, waarin hij het onder andere opneemt tegen veteraan
+                    Strip "The King" Weathers en Chick Hicks, een racer die regelmatig valsspeelt door zijn
+                    tegenstanders van het circuit te duwen. De race eindigt echter op een gelijke stand, waardoor er nog
+                    een beslissende wedstrijd moet gereden worden. Deze vindt plaats over een week in Los Angeles. Na de
+                    wedstrijd besluit hij meteen hierheen te vertrekken. Hij geeft zijn chauffeur, de trailer Mack, de
+                    opdracht de hele nacht door te rijden.
+
+                    Mack wordt al snel moe en wordt bovendien speelbal van een groep straatracers, die hem in slaap
+                    brengen met muziek. Hierdoor valt een beker op de knop van de laaddeur en al slapend rolt McQueen
+                    uit de truck. Wanneer McQueen wakker wordt, bevindt hij zich op onbekend terrein. Zijn poging Mack
+                    terug te vinden brengt hem naar het gezellige Radiator Springs. Hier vernielt hij per ongeluk de
+                    hoofdweg. Als straf moet hij van de rechter, Doc Hudson, de weg eigenhandig repareren.
+
+                    McQueen probeert het werk af te raffelen om zo snel mogelijk naar Los Angeles te kunnen, en moet
+                    derhalve steeds opnieuw beginnen. Terwijl de dagen verstrijken, leert hij de dorpelingen wat beter
+                    kennen. Hij wordt vooral vrienden met de takelwagen Takel (Engels "Mater") en de Porsche Sally.
+                    Tijdens zijn verblijf leert hij dat Radiator Springs ooit een favoriete stopplaats was langs de
+                    Route 66, maar sinds de opening van interstate 40 vergeten is geraakt. McQueen ontdekt ook dat Doc
+                    in werkelijkheid een voormalig drievoudig Piston Cup kampioen is, die na een ongeluk 50 jaar geleden
+                    met racen moest stoppen en door iedereen aan de kant werd gezet.
+
+                    Aangemoedigd door zijn nieuwe vrienden weet McQueen de weg eindelijk te herstellen. Hij blijft nog
+                    een dagje in de stad om zich voor te bereiden op de race. Hij probeert hierbij zelfs de stad nieuw
+                    leven in te blazen. Die nacht arriveren Mack en een hoop journalisten in de stad, nadat Doc ze heeft
+                    verteld over McQueen's verblijfplaats. McQueen vertrekt, zij het met tegenzin, uit Radiator Springs
+                    en vervolgt zijn reis naar Californië. De dorpelingen zien McQueen niet graag gaan daar hij
+                    eindelijk wat leven in de brouwerij bracht, en Doc beseft zijn fout om Mack erbij te halen.
+
+                    Wanneer de dag van de race aanbreekt, is McQueen nog altijd met zijn gedachten bij Radiator Springs.
+                    Derhalve presteert hij de eerste ronden niet op zijn best in de race. Wanneer hij ziet dat Doc en de
+                    dorpelingen naar de race zijn gekomen, zet hij alles op alles. Tijdens de race wordt The King door
+                    Chick van de weg geduwd en komt zwaar beschadigd langs de kant terecht. McQueen stopt met de race om
+                    The King te helpen, waardoor Chick wint. McQueen duwt The King terug op de weg en over de
+                    finishlijn, zodat hij de race tenminste nog uitgereden heeft. Door zijn daad wordt McQueen ingehaald
+                    als de echte winnaar, terwijl Chick nauwelijks aandacht krijgt van de pers.
+
+                    McQueen keert naderhand terug naar Radiator Springs, en besluit deze stad tot zijn uitvalsbasis te
+                    maken voor toekomstige wedstrijden.</i>
+            </p>
+
+            <p><i>De achterligende gedachte is dus dat je je vrienden nodig hebt in het leven, want in je eentje is het
+                    een stuk lastiger.</i></p>
+            <img src="img/cars.jpg" alt="cars foto" 100px>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SbXIj2T-_uk?si=RqMtT2MmFYc9-MRI"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </center>
+    </main>
+</body>
+
+<footer>
+    <link rel="stylesheet" href="css/style.css">
+</footer>
+
+<link rel="stylesheet" href="css/reset.css">
+
+</html>
